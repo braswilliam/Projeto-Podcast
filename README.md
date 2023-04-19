@@ -4,6 +4,6 @@ Created: April 17, 2023 3:43 PM
 
 ## Brainstorm:
 
-![Untitled](img-branstorm/Untitled.png)
+![Untitled](img-README/Untitled.png)
 
-![Untitled](img-branstorm/Untitled%201.png)
+![Untitled](img-README/Untitled%201.png)
